@@ -16,20 +16,31 @@ center <<-EOS
 "As cathedrals took decades,
 and often even centuries to complete,
 few people who worked on them expected to
-see them finished during their lifetimes."
-
-EOS
-
-center <<-EOS
-
-Instant Gratification
+see them finished during their lifetimes.
 
 EOS
 
 
 center <<-EOS
 
-Instant Gratification
+Being involved in the construction of a
+cathedral, […] required a willingness to be
+part of a process that was larger than oneself."
+
+– Jean Gimpel, The Cathedral Builders
+
+EOS
+
+center <<-EOS
+
+We're No Longer Building Cathedrals
+
+EOS
+
+
+center <<-EOS
+
+We Demand Instant Gratification
 
 EOS
 
@@ -54,7 +65,7 @@ EOS
 
 center <<-EOS
 
-Playing the Long Game
+Can We Get Back to Playing the Long Game?
 
 EOS
 

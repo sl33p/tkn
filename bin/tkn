@@ -154,7 +154,7 @@ def render_section(title)
 
   rfil = [1, width - 5].max/2
   lfil = [1, width - 5 - rfil].max
-  fleuron = '─' * lfil + ' —•••— ' + '─' * rfil
+  fleuron = '─' * lfil + ' • ' + '─' * rfil
 
   render_center("#{fleuron}\n\n#{title}\n\n#{fleuron}\n")
 end
