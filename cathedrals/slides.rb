@@ -71,9 +71,22 @@ EOS
 
 center <<-EOS
 
-What's the Cathedral of Today?
+"[…] the challenge of making things that endure,
+despite the incentive structure of the real-time web"
+
+— Alexis C. Madrigal, on Twitter
 
 EOS
+
+center <<-EOS
+
+"Can we build digital products around sustainable
+systems that survive long enough to outlive us?"
+
+— Wilson Miner, The Manual
+
+EOS
+
 
 center <<-EOS
 
@@ -84,6 +97,12 @@ EOS
 center <<-EOS
 
 Transitioning to No Discernable Gratification
+
+EOS
+
+center <<-EOS
+
+What's the Cathedral of Today?
 
 EOS
 
